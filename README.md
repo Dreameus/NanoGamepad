@@ -54,8 +54,8 @@ nano-vjoy-gamepad/
 
 ### ✅ Python Libraries
 Install them with pip:
-
 pip install pyserial pyvjoy
+
 🚀 How to Run
 1. Upload Arduino Sketch
 Flash the nano_gamepad.ino to your Nano using the Arduino IDE.
